@@ -1,32 +1,27 @@
 
 
-.amarillitas-2 {
+.amarillitas-3 {
+  display: inline-block;
+  width:180px;
+  height:30px;
   background-color:#FFD700;
   font-family: "verdana";
   font-size: 100%;
-  display:block;
-  width:180px;
-  height:30px;
-  padding-bottom: 10px;
-  padding-left: 10px;
-  text-align: center;
-   padding-top:20px;
-   margin-left: 550px;
-   margin-top:20px;
+  padding-bottom: 3px;
+  padding-left: 20px;
+  padding-top:20px;
+  margin:8px;
+  }
 
-}
-
- .roja-2{
-   display: block;
+ .roja-3{
+   display:inline-block;
    width:180px;
    height:30px;
-   padding-bottom: 10px;
-   padding-left: 10px;
    background-color:#B22222;
    font-family: "verdana";
    font-size: 100%;
-   text-align: center;
+   padding-bottom: 3px;
+   padding-left: 30px;
    padding-top: 20px;
-   margin-left: 550px;
-   margin-top:20px;
+   margin:8px;
 }
